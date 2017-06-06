@@ -1,0 +1,24 @@
+body{
+  margin: 0;  
+}
+.container{
+  width: 1200px;
+  height: 500px;
+  background-color: #2112CD;
+  padding: 100px;
+}
+.bd{
+  border: solid 50px #D82323;
+  background-color: #15DF27;
+}
+ 
+.pd{
+  background-color: #EFE41B;
+  padding: 20px;
+ 
+}
+.content{
+  background-color: #fff;
+  height: 100px;
+  padding: 10px;
+}
